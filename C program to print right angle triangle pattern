@@ -1,0 +1,15 @@
+#include<studio.h>
+Int main()
+{
+Int rows,i,j;
+Printf("\n please enter the number of rows:";)
+for(I=1;I<=rows;I++)
+{
+for(j=1;j<=I;j++)
+{
+Printf("%d",I);
+}
+Printf("\n")
+}
+return 0;
+}
